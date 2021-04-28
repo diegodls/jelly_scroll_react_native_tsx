@@ -5,7 +5,7 @@ Efeito jelly aplicado a um ScrollView
 # :question: Por quê? 
 Este aplicativo foi desenvolvido para testar o aprendizado de [Animações](https://github.com/software-mansion/react-native-reanimated) no [React Native](https://reactnative.dev). </br>
 Neste projeto foi aplicado um efeito de distorção a um componente (Card.tsx) ao rolar uma lista (ScrollView).</br>
-Obtendo o valor de arraste da lista (y, horizontal), dividimos esse valor pelo valor da animação (clock) e aplicamos uma interpolação com ase na quantidade de distorção que queremos.
+Obtendo o valor de arraste da lista (y, horizontal), dividimos esse valor pelo valor da animação (clock) e aplicamos uma interpolação com base na quantidade de distorção que queremos.
 
 # :iphone: Demo
 iOS            |  Android
